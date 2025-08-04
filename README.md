@@ -55,7 +55,7 @@ Brevity is important in crafting prompts. A concise prompt removes superfluous i
 *Improvement:* Identify factors behind China's recent economic growth. 
 
 #### L. Logical
-Logical prompts enables AI models to better comprehend the context and relationships between various concepts, resulting in more accurate and coherent outputs. Ensure that the information provided follows a natural prograssion and that the relationship between concepts are evident.
+Logical prompts enables AI models to better comprehend the context and relationships between various concepts, resulting in more accurate and coherent outputs. Ensure that the information provided follows a natural progression and that the relationship between concepts are evident.
 
 *Example:* I am learning about the scientific method and don't know how to go about conducting a scientific experiment. How do I do that?
 *Improvement:* Describe the steps in the scientific method, starting with forming a hypothesis and ending with drawing a conclusion.
