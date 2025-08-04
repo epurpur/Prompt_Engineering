@@ -64,7 +64,7 @@ Logical prompts enables AI models to better comprehend the context and relations
 Explicit prompts underscore the need for clear output specifications in the queries posed to AI language models. Explicit prompts provide precise instructions regarding the desired output format, content, or scope, thereby reducing the likelihood of receiving unanticipated or irrelevant responses from the AI model. 
 
 *Example:* Tell me about the French Revolution
-*Improvement:* Provide a short overview of teh French Revolution, emphasizing its causes, major events, and consequences. 
+*Improvement:* Provide a short overview of the French Revolution, emphasizing its causes, major events, and consequences. 
 
 #### A. Adaptability
 Adaptability entails experimenting with various prompt formulations, phrasing, and settings (if available) in order to establish a balance between creativity and concentration. When crafting prompts, be flexible and willing to attempts new approaches based on the performance of the model. 
