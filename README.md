@@ -51,26 +51,55 @@ In 2023, UVA Library Dean [Leo Lo](https://library.virginia.edu/news/2025/leo-lo
 #### C. Concise
 Brevity is important in crafting prompts. A concise prompt removes superfluous information and allows the LLM to focus on the most important aspects of a prompt. Clarity is important as unclear instructions may result in bad responses. Writing effective prompts requires ensuring that the question is specific and directed toward the desired response.
 
-*Example:* Please provide me with an extensive discussion on the factors that contributed to the economic growth of China during the last few decades.
-*Improvement:* Identify factors behind China's recent economic growth. 
+*Bad:* Can you please provide me with a detailed explanation of the process of photosynthesis and why it is important in the grand scheme of things?.
+
+*Good:* Explain the process of photosynthesis and its significance. 
+
+You see the second example is much more to the point without the fluff of the first question. 
 
 #### L. Logical
 Logical prompts enables AI models to better comprehend the context and relationships between various concepts, resulting in more accurate and coherent outputs. Ensure that the information provided follows a natural progression and that the relationship between concepts are evident.
 
-*Example:* I am learning about the scientific method and don't know how to go about conducting a scientific experiment. How do I do that?
-*Improvement:* Describe the steps in the scientific method, starting with forming a hypothesis and ending with drawing a conclusion.
+*Bad:* I am learning about the scientific method and don't know how to go about conducting a scientific experiment. How do I do that?
+
+*Good:* Describe the steps in the scientific method, starting with forming a hypothesis and ending with drawing a conclusion.
+
+The second example gives well defined expectations for the AI to follow.
 
 #### E. Explicit
 Explicit prompts underscore the need for clear output specifications in the queries posed to AI language models. Explicit prompts provide precise instructions regarding the desired output format, content, or scope, thereby reducing the likelihood of receiving unanticipated or irrelevant responses from the AI model. 
 
-*Example:* Tell me about the French Revolution
-*Improvement:* Provide a short overview of the French Revolution, emphasizing its causes, major events, and consequences. 
+*Bad:* Tell me about the French Revolution
+
+*Good:* Provide a short overview of the French Revolution, emphasizing its causes, major events, and consequences. 
+
+Similar to logical, this gives clear instructions to the AI about what output to produce and how it should be structured. 
 
 #### A. Adaptability
 Adaptability entails experimenting with various prompt formulations, phrasing, and settings (if available) in order to establish a balance between creativity and concentration. When crafting prompts, be flexible and willing to attempts new approaches based on the performance of the model. 
 
 *Example:* If the results of a prompt such as "Discuss the impact of social media on mental health" is too general, consider a more focused and adaptable prompt
+
 *Improvement:* Examine the relationship between social media usage and anxiety in adolescents
 
 #### R. Reflective
-Adopting a reflective perspective puts gives users agency to evaluate the performance of the AI model, identifying areas for improvement and adjusting their approach accordingly. Make it a habit to examine the AI-generated content and apply insights to future prompts. This includes fact checking! Be aware that the AI doesn't always know what it is talking about and don't accept it's answers as truth. 
+**In my opinion, this is the most important of the 5 steps to good prompt engineering**. There must always be a human in the loop to evaluate the output produced by the AI! Adopting a reflective perspective puts gives users agency to evaluate the performance of the AI model, identifying areas for improvement and adjusting their approach accordingly. Make it a habit to examine the AI-generated content and apply insights to future prompts. This includes fact checking! Be aware that the AI doesn't always know what it is talking about and don't accept it's answers as truth. 
+
+## Good Uses of AI
+
+While there are many valid downsides of AI tools, and I don't want to diminish those, Generative AI such as Copilot and ChatGPT gets a lot of flack for producing misinformation when maybe the real problem is people's misuse of the software. 
+
+#### When you don't know enough to craft a good prompt or search
+Maybe you are researching a topic you aren't familiar with and don't know where to start? AI can help you figure out a list of keywords to search, ideas to brainstorm, or resources to check out on a topic. 
+
+#### First Drafts
+If you are like me, you find it easier to edit or revise something that exists even if it is terrible. The first draft is a starting point for refinement. It doesn't need to be perfect or completely accurate.
+
+#### Summarizing complex ideas for they layman
+Similar to the first example, if you don't know anything about quantum physics, reading a quick AI summary can at least clue you in. The summary may not be totally factual but it will probably be good enough to get started. 
+
+#### Roleplaying or Simulation
+Simulating a situation such as practicing an interview or an upcoming difficult conversation can help you prepare ahead of time.
+
+#### Recipes
+This is a fun thing I use AI for. I tell the AI what I have in the kitchen and the AI creates a recipe for me. I know there are other services available that do this but I just find it easier to do it in GenAI. As every recipe leaves room for interpretation, there is usually not a "right way" to make most recipes. 
