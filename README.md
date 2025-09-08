@@ -18,6 +18,21 @@ I'm a part of a group called [research data services](https://data.library.virgi
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
 
+## Upcoming Python Workshops
+| Workshop | Date | Time |
+| ---- | ---- | ---- |
+| Intro to Python pt 1                                                |       Tuesday 9/2   |  11:00 - 12:30am
+| Intro to Python pt 2                                                |       Tuesday 9/9   |  11:00 - 12:30am
+| Python Data Analysis & Visualization                                |       Tuesday 9/16  |  11:00 - 12:30am
+| AI Prompt Engineering for Python                                    |       Thursday 9/18 |  1:00 - 2:30pm
+
+## Upcoming AI Workshops
+| Workshop | Date | Time |
+| ---- | ---- | ---- |
+| Using Large Language Models Locally                                 |       Thursday 9/4   |  1:00 - 2:30pm
+| AI Prompt Engineering w/ CLEAR Framework                            |       Thursday 9/11  |  1:00 - 2:30pm
+| AI Prompt Engineering for Python                                    |       Thursday 9/18  |  1:00 - 2:30pm
+
 
 ## Prompt Engineering 
 The process of crafting effecting inputs to guide large language models and other AI systems towards generating desired outputs. AI tools like ChatGPT, CoPilot, etc. create output based on predicting the most likely sequence of words based on patterns they've learned from huge sets of training data. They predict these patterns using statistical methods. It is easy to get generative AI tools to produce an output. That is what they are meant to do. However, that output can be misleading, off target, untruthful, too long, too short, not specific, or otherwise non-optimized in many ways. Through effective prompt engineering you can get better outputs! 
