@@ -35,7 +35,7 @@ I'm a part of a group called [research data services](https://data.library.virgi
 
 
 ## Prompt Engineering 
-The process of crafting effecting inputs to guide large language models and other AI systems towards generating desired outputs. AI tools like ChatGPT, CoPilot, etc. create output based on predicting the most likely sequence of words based on patterns they've learned from huge sets of training data. They predict these patterns using statistical methods. It is easy to get generative AI tools to produce an output. That is what they are meant to do. However, that output can be misleading, off target, untruthful, too long, too short, not specific, or otherwise non-optimized in many ways. Through effective prompt engineering you can get better outputs! 
+The process of crafting effective inputs to guide large language models and other AI systems towards generating desired outputs. AI tools like ChatGPT, CoPilot, etc. create output based on predicting the most likely sequence of words based on patterns they've learned from huge sets of training data. They predict these patterns using statistical methods. It is easy to get generative AI tools to produce an output. That is what they are meant to do. However, that output can be misleading, off target, untruthful, too long, too short, not specific, or otherwise non-optimized in many ways. Through effective prompt engineering you can get better outputs! 
 
 ## AI Resources at UVA
 #### [Microsoft Copilot Login](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=dbe41947dbe3f91066d98f38139619db)
@@ -48,6 +48,26 @@ If you are a UVA-affiliated person, make sure to log into Copilot through the [U
 
 #### [Consensus Login](https://guides.lib.virginia.edu/consensus)
 Consensus is an academic search engine, using AI to find scholarly research to assist with your research. UVA has a licensed version of Consensus for affiliated users. 
+
+## Misuse of AI. When is the right and wrong time to use it?
+
+While there are many valid downsides of AI tools, and I don't want to diminish those, Generative AI such as Copilot and ChatGPT gets a lot of flack for producing misinformation when maybe the real problem is people's misuse of the software. At least in the context of this workshop, I always try to keep in mind that if you are making a decision that relies on factual information, **there always needs to be a human involved in the decision-making process**. The human is there to make a final decision based on the input the AI has given, which must be considered and evaluated. However, there are times when you don't neccessarily need 100% factually correct information. Situations like this include...   
+
+#### When you don't know enough to craft a good prompt or search
+Maybe you are researching a topic you aren't familiar with and don't know where to start? AI can help you figure out a list of keywords to search, ideas to brainstorm, or resources to check out on a topic. Ex: *fashion*
+
+#### First Drafts
+If you are like me, you find it easier to edit or revise something that exists even if it is terrible. The first draft is a starting point for refinement. It doesn't need to be perfect or completely accurate. Ex: *Letter to apply to grad school*
+
+#### Summarizing complex ideas for they layman
+Similar to the first example, if you don't know anything about quantum physics, reading a quick AI summary can at least clue you in. The summary may not be totally factual but it will probably be good enough to get started. Ex: *quantum physics*
+
+#### Roleplaying or Simulation
+Simulating a situation such as practicing an interview or an upcoming difficult conversation can help you prepare ahead of time. Ex: *Prep for a job interview for a data scientist role*
+
+#### Recipes
+This is a fun thing I use AI for. I tell the AI what I have in the kitchen and the AI creates a recipe for me. I know there are other services available that do this but I just find it easier to do it in GenAI. As every recipe leaves room for interpretation, there is usually not a "right way" to make most recipes. Ex: *I have olive oil, noodles, carrots, and chicken*
+
 
 ## The CLEAR Path: A Framework for Prompt Engineering
 When AI chatbots like ChatGPT came into the fold in 2022, there was a flurry of activity to explore these tools and see what they can do. While they create new opportunities, like any tool it is more powerful when wielded correctly. If you don't know how to drive a car, you might crash into a ditch? AI tools also have their own best practices, though there is no AI-tool users license. So what is the right way to use them?
@@ -100,21 +120,3 @@ Adaptability entails experimenting with various prompt formulations, phrasing, a
 #### R. Reflective
 **In my opinion, this is the most important of the 5 steps to good prompt engineering**. There must always be a human in the loop to evaluate the output produced by the AI! Adopting a reflective perspective puts gives users agency to evaluate the performance of the AI model, identifying areas for improvement and adjusting their approach accordingly. Make it a habit to examine the AI-generated content and apply insights to future prompts. This includes fact checking! Be aware that the AI doesn't always know what it is talking about and don't accept it's answers as truth. 
 
-## Good Uses of AI
-
-While there are many valid downsides of AI tools, and I don't want to diminish those, Generative AI such as Copilot and ChatGPT gets a lot of flack for producing misinformation when maybe the real problem is people's misuse of the software. 
-
-#### When you don't know enough to craft a good prompt or search
-Maybe you are researching a topic you aren't familiar with and don't know where to start? AI can help you figure out a list of keywords to search, ideas to brainstorm, or resources to check out on a topic. 
-
-#### First Drafts
-If you are like me, you find it easier to edit or revise something that exists even if it is terrible. The first draft is a starting point for refinement. It doesn't need to be perfect or completely accurate.
-
-#### Summarizing complex ideas for they layman
-Similar to the first example, if you don't know anything about quantum physics, reading a quick AI summary can at least clue you in. The summary may not be totally factual but it will probably be good enough to get started. 
-
-#### Roleplaying or Simulation
-Simulating a situation such as practicing an interview or an upcoming difficult conversation can help you prepare ahead of time.
-
-#### Recipes
-This is a fun thing I use AI for. I tell the AI what I have in the kitchen and the AI creates a recipe for me. I know there are other services available that do this but I just find it easier to do it in GenAI. As every recipe leaves room for interpretation, there is usually not a "right way" to make most recipes. 
