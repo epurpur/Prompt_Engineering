@@ -120,3 +120,6 @@ Adaptability entails experimenting with various prompt formulations, phrasing, a
 #### R. Reflective
 **In my opinion, this is the most important of the 5 steps to good prompt engineering**. There must always be a human in the loop to evaluate the output produced by the AI! Adopting a reflective perspective puts gives users agency to evaluate the performance of the AI model, identifying areas for improvement and adjusting their approach accordingly. Make it a habit to examine the AI-generated content and apply insights to future prompts. This includes fact checking! Be aware that the AI doesn't always know what it is talking about and don't accept it's answers as truth. 
 
+## Follow Up
+
+UVA Library maintains a page where we do our best to stay current on trends in the AI field, best practices, and helpful resources. To see more on prompt engineering, [go to this link](https://guides.lib.virginia.edu/c.php?g=1340987&p=10541661). 
