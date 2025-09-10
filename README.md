@@ -68,6 +68,9 @@ Simulating a situation such as practicing an interview or an upcoming difficult 
 #### Recipes
 This is a fun thing I use AI for. I tell the AI what I have in the kitchen and the AI creates a recipe for me. I know there are other services available that do this but I just find it easier to do it in GenAI. As every recipe leaves room for interpretation, there is usually not a "right way" to make most recipes. Ex: *I have olive oil, noodles, carrots, and chicken*
 
+## AI is overconfident
+Have you ever been given some misinformation by an AI chatbot? This [news article](https://www.cmu.edu/dietrich/news/news-stories/2025/july/trent-cash-ai-overconfidence.html) explains the phenomenon. LLMs don't learn from their mistakes. When asked follow up questions about their answers, AI will confidently reply with a follow up. This page of [AI follies](https://www.tomshardware.com/tech-industry/artificial-intelligence/cringe-worth-google-ai-overviews) is good for a laugh.
+
 
 ## The CLEAR Path: A Framework for Prompt Engineering
 When AI chatbots like ChatGPT came into the fold in 2022, there was a flurry of activity to explore these tools and see what they can do. While they create new opportunities, like any tool it is more powerful when wielded correctly. If you don't know how to drive a car, you might crash into a ditch? AI tools also have their own best practices, though there is no AI-tool users license. So what is the right way to use them?
