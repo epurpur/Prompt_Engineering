@@ -62,6 +62,11 @@ Simulating a situation such as practicing an interview or an upcoming difficult 
 #### Recipes
 This is a fun thing I use AI for. I tell the AI what I have in the kitchen and the AI creates a recipe for me. I know there are other services available that do this but I just find it easier to do it in GenAI. As every recipe leaves room for interpretation, there is usually not a "right way" to make most recipes. Ex: *I have olive oil, noodles, carrots, and chicken*
 
+## Times to definitely not use AI
+
+#### During a creative/innovative process
+If you are doing someting creative or innovative (art, music, writing, creating in general), AI can potentially assist some aspects of that process but should not be used in creating original work or art. Remember, the AI is a predictive model. It is using the underlying training data to predict a logical outcome. At least for the time being, nothing AI creates is new or original. If you are doing something that hasn't existed before, AI is of limited use. For example, leading Hollywood directors like Steven Spielberg, Guillermo del Toro, and Gore Verbinski are anti-AI in their movies because it fundamentally undermines their creation. Whatever AI generated content that might result is just a lossy amalgamation of other stuff that exists.
+
 ## AI is overconfident
 Have you ever been given some misinformation by an AI chatbot? This [news article](https://www.cmu.edu/dietrich/news/news-stories/2025/july/trent-cash-ai-overconfidence.html) explains the phenomenon. LLMs don't learn from their mistakes. When asked follow up questions about their answers, AI will confidently reply with a follow up. This page of [AI follies](https://www.tomshardware.com/tech-industry/artificial-intelligence/cringe-worth-google-ai-overviews) is good for a laugh.
 
