@@ -18,6 +18,13 @@ I'm a part of a group called [research data services](https://data.library.virgi
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
 
+## Large Language Models
+A Large Language Model (LLM) is an artificial intelligence algorithm that uses deep learning techniques and massive data sets to understand and create human-like content across various media types including text, images, video, etc. These models are trained on extensive datasets of diverse information. Using deep learning techniques, they recognize patterns and relationships within and between different forms of media.
+
+In simpler terms, an LLM is a computer program that has been fed enough examples of human language that it can recognize and interpret human language and other forms of complex data. Many LLMs are trained on data that has been gathered from the internet and the quality of the samples impacts how well the LLM will learn natural language.
+
+There are many LLMs in existence such as OpenAI's high profile GPT (Generative Pre-Trained Transformer). Some are optimized for specific purposes, as we will learn more about today, while others are more general use. You can also download them yourself for your own purposes. Most people probably just use a hosted service like Copilot, ChatGPT, etc. and don't need to worry about specialized use cases.
+
 
 ## Prompt Engineering 
 The process of crafting effective inputs to guide large language models and other AI systems towards generating desired outputs. AI tools like ChatGPT, CoPilot, etc. create output based on predicting the most likely sequence of words based on patterns they've learned from huge sets of training data. They predict these patterns using statistical methods. It is easy to get generative AI tools to produce an output. That is what they are meant to do. However, that output can be misleading, off target, untruthful, too long, too short, not specific, or otherwise non-optimized in many ways. Through effective prompt engineering you can get better outputs! 
