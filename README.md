@@ -18,6 +18,21 @@ I'm a part of a group called [research data services](https://data.library.virgi
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
 
+
+## AI Resources at UVA
+#### [Microsoft Copilot Login](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=dbe41947dbe3f91066d98f38139619db)
+While most of this material is available to anyone, whether you are a part of the University of Virginia or not, these resources are available to UVA-affiliated people through our ITS department. UVA ITS maintains a page with up-to-date information of their current AI offerings, found [here](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=dbe41947dbe3f91066d98f38139619db).
+
+UVA is a Microsoft Campus and for that reason, I will be teaching this workshop using Microsoft's Generative AI tool, Copilot. However, results should be very similar using any other AI chatbot tool such as ChatGPT, Gemini, etc. 
+
+
+**Disclaimer**
+If you are a UVA-affiliated person, make sure to log into Copilot through the [UVA ITS](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=dbe41947dbe3f91066d98f38139619db) portal. Because UVA has a site license with Microsoft, UVA's instance of Copilot will protect personal information, your chat history, etc.
+
+#### [Consensus Login](https://guides.lib.virginia.edu/consensus)
+Consensus is an academic search engine, using AI to find scholarly research to assist with your research. UVA has a licensed version of Consensus for affiliated users. 
+
+
 ## Large Language Models
 A Large Language Model (LLM) is an artificial intelligence algorithm that uses deep learning techniques and massive data sets to understand and create human-like content across various media types including text, images, video, etc. These models are trained on extensive datasets of diverse information. Using deep learning techniques, they recognize patterns and relationships within and between different forms of media.
 
@@ -31,17 +46,6 @@ The process of crafting effective inputs to guide large language models and othe
 
 To quote from the article we will reference today: "A well-designed prompt can elicit a meaningful and informative response, whereas a poorly constructed one may result in outputs that are irrelevant or nonsensical."
 
-## AI Resources at UVA
-#### [Microsoft Copilot Login](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=dbe41947dbe3f91066d98f38139619db)
-While most of this material is available to anyone, whether you are a part of the University of Virginia or not, these resources are available to UVA-affiliated people through our ITS department. UVA ITS maintains a page with up-to-date information of their current AI offerings, found [here](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=dbe41947dbe3f91066d98f38139619db).
-
-UVA is a Microsoft Campus and for that reason, I will be teaching this workshop using Microsoft's Generative AI tool, Copilot. However, results should be very similar using any other AI chatbot tool such as ChatGPT, Gemini, etc. 
-
-**Disclaimer**
-If you are a UVA-affiliated person, make sure to log into Copilot through the [UVA ITS](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=dbe41947dbe3f91066d98f38139619db) portal. Because UVA has a site license with Microsoft, UVA's instance of Copilot will protect personal information, your chat history, etc.
-
-#### [Consensus Login](https://guides.lib.virginia.edu/consensus)
-Consensus is an academic search engine, using AI to find scholarly research to assist with your research. UVA has a licensed version of Consensus for affiliated users. 
 
 ## Misuse of AI. When is the right and wrong time to use it?
 
